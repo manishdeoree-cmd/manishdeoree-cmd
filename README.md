@@ -114,12 +114,12 @@ End-to-end CI/CD pipeline (Jenkins → Docker → GitHub → AWS ECR) with autom
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manishdeoree-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="manishdeoree-cmd stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishdeoree-cmd&layout=compact&theme=tokyonight&hide_border=true" width="30%" alt="manishdeoree-cmd top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=manishdeoree-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%" alt="manishdeoree-cmd stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishdeoree-cmd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="30%" alt="manishdeoree-cmd top langs" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishdeoree-cmd&theme=tokyonight&hide_border=true" width="60%" alt="manishdeoree-cmd streak stats" />
+<img src="https://streak-stats.demolab.com?user=manishdeoree-cmd&theme=tokyonight&hide_border=true" width="60%" alt="manishdeoree-cmd streak stats" />
 </p>
 
 ---
