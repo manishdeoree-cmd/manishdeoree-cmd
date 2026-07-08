@@ -1,0 +1,48 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <circle cx="1080" cy="60" r="120" fill="#ffffff" opacity="0.03"/>
+  <circle cx="1150" cy="240" r="90" fill="#ffffff" opacity="0.04"/>
+  <circle cx="60" cy="260" r="70" fill="#ffffff" opacity="0.03"/>
+
+  <rect x="70" y="55" width="6" height="80" fill="url(#accent)" rx="3"/>
+
+  <text x="95" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Manish Deore</text>
+  <text x="95" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#8fd8ff">DevOps &amp; Cloud Engineer</text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="14" font-weight="500">
+    <rect x="95" y="165" width="72" height="30" rx="6" fill="#ffffff" opacity="0.08"/>
+    <text x="131" y="185" text-anchor="middle" fill="#ffffff">AWS</text>
+
+    <rect x="177" y="165" width="98" height="30" rx="6" fill="#ffffff" opacity="0.08"/>
+    <text x="226" y="185" text-anchor="middle" fill="#ffffff">Kubernetes</text>
+
+    <rect x="285" y="165" width="90" height="30" rx="6" fill="#ffffff" opacity="0.08"/>
+    <text x="330" y="185" text-anchor="middle" fill="#ffffff">Terraform</text>
+
+    <rect x="385" y="165" width="76" height="30" rx="6" fill="#ffffff" opacity="0.08"/>
+    <text x="423" y="185" text-anchor="middle" fill="#ffffff">Docker</text>
+
+    <rect x="471" y="165" width="76" height="30" rx="6" fill="#ffffff" opacity="0.08"/>
+    <text x="509" y="185" text-anchor="middle" fill="#ffffff">Jenkins</text>
+
+    <rect x="557" y="165" width="74" height="30" rx="6" fill="#ffffff" opacity="0.08"/>
+    <text x="594" y="185" text-anchor="middle" fill="#ffffff">CI/CD</text>
+  </g>
+
+  <text x="95" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#c9e8f5" opacity="0.85">Automating infrastructure, one pipeline at a time</text>
+
+  <line x1="95" y1="255" x2="700" y2="255" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
+</svg>
