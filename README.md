@@ -101,15 +101,7 @@ End-to-end CI/CD pipeline (Jenkins → Docker → GitHub → AWS ECR) with autom
 
 ---
 
-<h3 align="center">📜 Certifications</h3>
 
-<p align="center">
-🏅 AWS Cloud Practitioner Essentials &nbsp;•&nbsp; 🏅 AWS Cloud Quest: Cloud Practitioner<br/>
-🏅 Domain Review: AWS Certified Cloud Practitioner (CLF-C02)<br/>
-🏅 Domain Review: AWS Certified DevOps Engineer – Professional (DOP-C02)
-</p>
-
----
 
 <h3 align="center">📊 GitHub Stats</h3>
 
